@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Nomaan786
-- 👀 I’m interested in java script, nodejs react and wordpress 
-- 🌱 I’m currently learning Surat Muncipaltiy Coopereation 
-- 💞️ I’m looking to collaborate on
+![image](https://user-images.githubusercontent.com/50145372/195922570-5d727278-cd40-4265-81d6-b7cab2aaca41.png)
+
+- Hi 👋, I'm Nomaan Shaikh
+- 👀Software Engineer| Full Stack Developer | Driving Initiatives In Executing Ideas To Reality And Surplus Them | Happy to connect 👇
+- 🌱 I’m currently learning Vue.js, Advance React.js and 
+- 💬 Ask me about React, Redux, Vue.js, NodeJS, Wordpress, CSS, and Java Script
 - 📫 How to reach me nomanshaikh587@gmail.com
 
 <!---
