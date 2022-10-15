@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Vue.js, Advance React.js and 
 - 💬 Ask me about React, Redux, Vue.js, NodeJS, Wordpress, CSS, and Java Script
 - 📫 How to reach me nomanshaikh587@gmail.com
+![image](https://user-images.githubusercontent.com/50145372/195989046-b6acdd4e-4d58-4cae-b49e-1547f7789f93.png)
+
 
 <!---
 Nomaan786/Nomaan786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
